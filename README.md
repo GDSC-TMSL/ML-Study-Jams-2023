@@ -11,8 +11,8 @@ Download or click on the pdf file to view the notes for the session.
 
 The roadmap for the event is as follows:
 
-    - Introduction to deep learning [Kaggle Course Link](https://www.kaggle.com/learn/intro-to-deep-learning)
-    - Computer vision [Kaggle Course Link](https://www.kaggle.com/learn/computer-vision)
+   - Introduction to deep learning [Kaggle Course Link](https://www.kaggle.com/learn/intro-to-deep-learning)
+   - Computer vision [Kaggle Course Link](https://www.kaggle.com/learn/computer-vision)
 
 ## Kaggle course links
 
