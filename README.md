@@ -11,19 +11,18 @@ Download or click on the pdf file to view the notes for the session.
 
 The roadmap for the event is as follows:
 
-   - Introduction to deep learning [Kaggle Course Link](https://www.kaggle.com/learn/intro-to-deep-learning)
-   - Computer vision [Kaggle Course Link](https://www.kaggle.com/learn/computer-vision)
    - Introduction to MACHINE LEARNING [Kaggle Course Link](https://www.kaggle.com/learn/intro-to-machine-learning)
    - Intermidiate machine learning [Kaggle Course Link](https://www.kaggle.com/learn/intermediate-machine-learning)
-   - Intro to deep learning [Kaggle Course Link](https://www.kaggle.com/learn/advanced-sql)
-   - Feature engineering [Kaggle Course Link](https://www.kaggle.com/learn/feature-engineering)
+   - Introduction to deep learning [Kaggle Course Link](https://www.kaggle.com/learn/intro-to-deep-learning)
    - Computer vision [Kaggle Course Link](https://www.kaggle.com/learn/computer-vision)
+   - Advanced SQL [Kaggle Course Link](https://www.kaggle.com/learn/advanced-sql)
+   - Feature engineering [Kaggle Course Link](https://www.kaggle.com/learn/feature-engineering)
    - Time series [Kaggle Course Link](https://www.kaggle.com/learn/time-series)
    - Introduction to AI ethics [Kaggle Course Link](https://www.kaggle.com/learn/intro-to-ai-ethics)
    
    <br>
    
-   ### <b><h5> COMPLETE ALL THE ABOVE 9 COURSES BY 30 APRIL 2023 TO RECEIVE A CERTIFICATE OF COMPLETION FROM GDSC TMSL</h5></B>
+   ### <b><h5> COMPLETE ALL THE ABOVE 8 COURSES BY 30 APRIL 2023 TO RECEIVE A CERTIFICATE OF COMPLETION FROM GDSC TMSL</h5></B>
    
    
    
